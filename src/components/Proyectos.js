@@ -18,19 +18,6 @@ export const Proyectos = () => {
 
           },
     ]
-    const adv = [
-        {
-            title: "Prototipo mascotas",
-            description: "",
-            imgUrl: projImg1,
-          },
-          {
-            title: "PATA protitipo",
-            description: "Prototipo academico para PATA",
-            imgUrl: projimg2,
-
-          },
-    ]
     return(
         <section className="project" id="project">
             <Container>
