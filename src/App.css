@@ -236,7 +236,7 @@ filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%) hue-rota
   display: inline-block;
 }
 .banner span{
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 .banner h1 {
   font-size: 65px;
