@@ -37,15 +37,15 @@ export const Habilidades = () => {
                         <p>Estas son mis habilidades como profesional</p>
                         <Carousel responsive={responsive} infinite = {true} className="skill-slider">
                             <div className="item">
-                                <img src={meter2}/>
+                                <img src={meter2} alt="Medidor UI/UX"/>
                                 <h5>UI/UIX</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1}/>
+                                <img src={meter1} alt="Medidor videos"/>
                                 <h5>Edición de vídeos</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2}/>
+                                <img src={meter2} alt="Medidor Motion"/>
                                 <h5>Motion graphics</h5>
                             </div>
                         </Carousel>
